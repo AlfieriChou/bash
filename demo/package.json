@@ -1,0 +1,11 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "node demo.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "author": "AlfieriChou",
+  "license": "MIT"
+}
